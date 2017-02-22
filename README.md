@@ -1,4 +1,6 @@
 # myProject
 
 电视观众
-![image](https://raw.githubusercontent.com/2017NewBorn/myProject/master/Resource/TestGif.gif)
+
+![image](https://github.com/2017NewBorn/myProject/master/firstGif.gif)
+
