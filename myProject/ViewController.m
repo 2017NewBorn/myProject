@@ -17,6 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    UIButton * btn = [UIButton buttonWithType:UIButtonTypeCustom];
+    btn.backgroundColor= [UIColor whiteColor];
+    [btn setTitle:@"戳我" forState:UIControlStateNormal];
+    [self.view addSubview:btn];
+    
 }
 
 
