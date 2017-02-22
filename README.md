@@ -2,5 +2,5 @@
 
 电视观众
 
-![image](https://raw.githubusercontent.com/2017NewBorn/myProject/master/fisrtGif.gif)
+![image](https://github.com/2017NewBorn/myProject/blob/master/firstGif.gif)
 
